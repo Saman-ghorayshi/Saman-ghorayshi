@@ -8,7 +8,7 @@
 
 ## About
 
-Python and C++20 backend developer based in Iran. I build crypto trading infrastructure, web scrapers, ML pipelines, and edge-deployed services on Cloudflare Workers. I care about test coverage -- most of my repos have 60+ tests with pytest.
+Python and C++20  developer . I build crypto trading infrastructure, web scrapers, ML pipelines, and edge-deployed services on Cloudflare Workers. I care about test coverage -- most of my repos have 60+ tests with pytest.
 
 Looking for remote backend or testing roles. Reach me at saman12382usp@gmail.com.
 
