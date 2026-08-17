@@ -10,7 +10,7 @@
 
 Python & C++20 | Backend & Frontend | Automation, I build practical projects in Python and C++20, including web scrapers, automation tools, web applications, ML pipelines, AI/LLM integrations, and Cloudflare Workers services. I also focus on automated testing with pytest and maintain extensive test coverage across my projects.
 
-Currently looking for internship or junior opportunities in backend, frontend, testing, automation, or AI/ML. Reach at : saman12382usp@gmail.com.
+Currently looking for internship or junior opportunities in backend, frontend, testing, automation, or AI/ML.  saman12382usp@gmail.com.
 
 <br/>
 
